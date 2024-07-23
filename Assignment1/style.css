@@ -1,0 +1,67 @@
+
+.header{
+    display: flex;
+    flex-direction: row;
+    padding-left:10%;
+}
+
+
+.logo{
+    margin-left: 70px;
+    color: grey;
+}
+.about-content{
+    display: flex;
+    flex-direction: row;
+    padding-left:10%;
+}
+
+.logo-one{
+    padding-left: 500px;
+   
+}
+.section{
+    padding-top: 100px;
+}
+.section p{
+    margin-left: 10%;
+}
+.section h1{
+    margin-left: 10%;
+}
+.section span{
+    color: rgb(234, 179, 78);
+}
+
+.section .download{
+    border-radius:50px;
+    background: transparent;
+    padding: 7px;
+    width: 10%;
+    font: bold;
+    margin-left: 10%;
+}
+.section .btn{
+    border-radius:50px;
+    background: transparent;
+    padding: 7px;
+    width: 10%;     
+    background-color: rgb(65, 61, 61);
+    color: white;
+}
+
+.image-section{
+    margin-left: 50%;
+    transform: translate(0%, -70%);
+    background-attachment: fixed;
+}
+
+.things{
+    margin-bottom:60%;
+    text-align: center;
+}
+.heading{
+    transform: translate(0, -140%);
+       text-align: center;
+       font-family: sans-serif;
+}
